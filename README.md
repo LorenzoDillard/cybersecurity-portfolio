@@ -4,62 +4,55 @@ A professional cybersecurity portfolio showcasing hands-on projects in identity 
 
 ## About Me
 
-I am a technology professional with a background in technical program management, enterprise application administration, and access management.
+I am a technology professional with experience in technical program management, enterprise application administration, and user access management. I have configured user accounts, permissions, and access restrictions in business systems, and I am expanding that foundation through hands-on cybersecurity labs.
 
-My experience includes configuring user accounts, managing access permissions, administering business applications, and supporting enterprise technology initiatives.
+My focus includes **ethical hacking and penetration testing, identity and access management (IAM), cloud security, vulnerability management, network security, and security automation with Python and Bash**.
 
-I am expanding my technical expertise into cybersecurity, with a particular interest in **ethical hacking, penetration testing, cloud security, identity and access management (IAM), vulnerability management, and network defense.**
+This repository showcases what I **personally build, test, troubleshoot, and document**. Projects are labeled as independent labs rather than professional client engagements.
 
-This portfolio documents my hands-on technical projects, practical security exercises, and continued professional development.
+## Skills I Am Developing
 
-## Cybersecurity Focus Areas
+- **Ethical hacking:** Authorized reconnaissance, web application testing, vulnerability validation, and reporting.
+- **Identity and access:** Linux users/groups, role-based access control, least privilege, and account lifecycle management.
+- **Cloud security:** AWS IAM permissions, security configuration, audit logging, and access review.
+- **Network and system security:** TCP/IP, DNS, HTTP, Linux administration, and basic defensive controls.
+- **Scripting and automation:** Python, Bash, log parsing, and repeatable security checks.
+- **Security communication:** Clear findings, evidence, remediation recommendations, and retesting notes.
 
-- **Ethical Hacking & Penetration Testing:** Learning authorized security testing, reconnaissance, enumeration, exploitation fundamentals, and vulnerability reporting.
-- **Cloud Security:** AWS security fundamentals, IAM policies, cloud configuration, and monitoring.
-- **Identity & Access Management (IAM):** Authentication, authorization, role-based access control, and least privilege.
-- **Vulnerability Management:** Identifying, assessing, prioritizing, and documenting security weaknesses.
-- **Network Security:** Networking fundamentals, traffic analysis, firewalls, and security controls.
-- **Security Operations:** Threat detection, log analysis, and incident investigation.
+## Projects
 
-## Cybersecurity Projects
-
-The following projects are part of my hands-on cybersecurity development.
-
-| Project | Description | Status |
+| Project | What it will demonstrate | Status |
 |---|---|---|
-| Identity & Access Security Lab | Implementing and testing role-based access controls and account permissions | Planned |
-| AWS Cloud Security Lab | Securing AWS identities, permissions, and audit logging | Planned |
-| Vulnerability Assessment Lab | Identifying, validating, and documenting security vulnerabilities | Planned |
-| Ethical Hacking & Penetration Testing Lab | Performing authorized reconnaissance, vulnerability testing, and security reporting in a controlled lab | Planned |
+| Linux Identity & Access Control Lab | Users, groups, permissions, allow/deny testing, and offboarding | Planned |
+| AWS Cloud Identity & Audit Lab | Least-privilege IAM, documented access tests, and CloudTrail review | Planned |
+| Ethical Hacking & Web Vulnerability Assessment | Authorized training-lab reconnaissance, validation, risk prioritization, and a pentest-style report | Planned |
+| Python Security Log Analyzer (mini-project) | Parsing fictional login events, summarizing failed attempts, and generating a simple report | Planned |
 
-Each completed project will include its objectives, tools used, technical implementation, testing evidence, findings, and lessons learned.
+Each completed project will contain a README with its **scope, tools, configuration or code, tests, evidence, findings, limitations, and lessons learned**. I will replace planned items with links when completed.
 
-## Training & Professional Development
+## Learning Resources
 
-My cybersecurity learning includes resources from:
+I use or plan to use these resources as part of a structured, hands-on learning plan:
 
-- TryHackMe
-- Hack The Box Academy
-- pwn.college
-- PortSwigger Web Security Academy
-- Microsoft Learn
-- AWS Training
-- Cisco Networking Academy
+- [TryHackMe](https://tryhackme.com/) — guided security fundamentals and introductory offensive security
+- [pwn.college](https://pwn.college/) — Linux and systems-security practice
+- [Hack The Box Academy](https://academy.hackthebox.com/) — additional introductory technical labs
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — web application security labs
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/manage-identity-and-access/) — enterprise identity concepts
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) — cloud fundamentals and available training labs
+- [Cisco Networking Academy](https://www.netacad.com/courses/networking-basics) — networking
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — practical programming
 
 ## Professional Background
 
 - **Education:** MBA, Syracuse University; BS in Electrical and Computer Engineering Technology, Purdue University.
-- **Experience:** Technical Program Management, Enterprise Application Administration, Business Process Improvement, and Technology Implementation.
-- **Current Focus:** Developing hands-on cybersecurity capabilities through independent labs, technical projects, and structured learning.
+- **Experience:** Technical program management, enterprise application administration, access controls, and technology implementation.
+- **Career direction:** Developing practical security skills while pursuing opportunities at the intersection of cybersecurity, technical delivery, cloud infrastructure, and automation.
 
-## Portfolio Objective
+## Ethics, Authorization & Disclosure
 
-My goal is to develop and demonstrate practical skills in identifying security weaknesses, understanding exploitation techniques, implementing defensive controls, investigating security issues, and communicating actionable findings.
-
-I am particularly interested in understanding cybersecurity from both offensive and defensive perspectives.
-
-This portfolio will evolve as I complete projects and expand my technical capabilities.
+All offensive-security testing documented here is performed on **systems I own or training environments explicitly provided for authorized testing**. I do not publish passwords, secret keys, client information, private data, or active challenge flags and spoilers. I distinguish **implemented and verified** controls from **proposed or design-only** work.
 
 ---
 
-*All security testing is conducted in controlled lab environments or on systems with explicit authorization. Independent projects are clearly distinguished from professional employment experience.*
+*This portfolio is a work in progress. Completed projects and verified evidence will be added over time.*
